@@ -141,15 +141,8 @@
 <div align="center">
   <h3 style="color: #00FFFF;">📊 DEVELOPER STATS</h3>
   
-  <!-- [PLACEHOLDER 1: GitHub Stats] -->
-  <img src="https://github-readme-stats.vercel.app/api?username=krtx17&hide_border=true&show_icons=true&bg_color=0d1117&title_color=FF69B4&text_color=E6E6FA&icon_color=DDA0DD&border_radius=15" width="49%" />
-  
   <!-- [PLACEHOLDER 2: GitHub Streak] -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krtx17&hide_border=true&background=0d1117&ring=FF69B4&fire=FF69B4&stroke=8B0A50&currStreakNum=E6E6FA&sideNums=E6E6FA&currStreakLabel=DDA0DD&sideLabels=DDA0DD&dates=E6E6FA&border_radius=15" width="49%" />
-  
-  <br><br>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krtx17&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF69B4&text_color=E6E6FA&border_radius=15" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krtx17&hide_border=true&background=0d1117&ring=FF69B4&fire=FF69B4&stroke=8B0A50&currStreakNum=E6E6FA&sideNums=E6E6FA&currStreakLabel=DDA0DD&sideLabels=DDA0DD&dates=E6E6FA&border_radius=15" width="80%" />
   
   <br><br>
   
