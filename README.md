@@ -118,9 +118,9 @@
   
   <!-- [PLACEHOLDER 3: 3D Contribution Graph] -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krtx17/krtx17/main/profile-3d-contrib/profile-night-green.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krtx17/krtx17/main/profile-3d-contrib/profile-night-green.svg">
-    <img alt="GitHub 3D Contribution Graph" src="https://raw.githubusercontent.com/krtx17/krtx17/main/profile-3d-contrib/profile-night-green.svg" width="80%">
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-green.svg">
+    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-night-green.svg">
+    <img alt="GitHub 3D Contribution Graph" src="profile-3d-contrib/profile-night-green.svg" width="100%">
   </picture>
   
   <br><br>
