@@ -21,17 +21,29 @@
   <h3 style="color: #00FFFF;">🎮 ABOUT ME</h3>
   <table border="1" bordercolor="#00FFFF" cellpadding="15" width="90%" style="background-color: #0d1117; text-align: left;">
     <tr>
-      <td width="25%" align="center">
+      <td width="35%" align="center" valign="top">
         <img src="mascot.gif" width="100%" alt="Mascot">
       </td>
-      <td width="75%">
-        <ul style="line-height: 1.6;">
-          <li>Pursuing a <b>B.Tech in Computer Science & Engineering</b> at SRMU (Class of '27), fueled by a relentless intellectual curiosity for computational logic.</li>
-          <li><b>Architecting robust backend infrastructures</b> and scalable full-stack applications with a meticulous focus on performance and architectural integrity.</li>
-          <li><b>Leveraging advanced Generative AI</b> and Retrieval-Augmented Generation (RAG) paradigms to conceptualize and deploy autonomous, agentic systems.</li>
-          <li><b>Engineering computer vision pipelines</b> to facilitate real-time spatial inference and sophisticated pattern recognition.</li>
-          <li><b>Proficient in object-oriented paradigms</b> and algorithmic optimization, utilizing Java alongside advanced Data Structures and Algorithms (DSA) to solve complex, multifaceted problems.</li>
-        </ul>
+      <td width="65%" valign="top">
+
+```python
+class KritikaTripathi:
+    role        = "Software Engineer & AI Developer"
+    education   = "B.Tech CSE '27 @ SRMU"
+    focus       = [
+        "Agentic AI", "RAG Systems",
+        "Backend Architecture", "Computer Vision"
+    ]
+    core_skills = ["Java", "DSA", "Full-Stack Development"]
+    hackathons  = [
+        "3rd Place - AgentathonX 2026",
+        "6th Place - Viveka Hackathon"
+    ]
+    open_source = ["GSSoC 2025", "ELUSOC 2025"]
+    projects    = "5+ Live AI/Full-Stack Apps"
+    philosophy  = "Relentless curiosity for computational logic."
+```
+
       </td>
     </tr>
   </table>
