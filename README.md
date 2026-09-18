@@ -1,30 +1,37 @@
 <!-- HERO SECTION -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/krtx17/krtx17/main/retro_video.gif" width="100%" alt="Retro Video Banner">
-
+  
   <br><br>
   
   <!-- Retro Title -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&multiline=false&width=600&lines=Hi%2C+I'm+Kritika+Tripathi+%F0%9F%91%8B;BTech+CSE+%2727+%40+SRMU;crafting+digital+experiences+%E2%9C%A8;v1.0+%E2%80%94+updates+coming+%F0%9F%96%A4" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=bold&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&multiline=false&width=700&lines=Hi%2C+I'm+Kritika+Tripathi+%F0%9F%91%8B;BTech+CSE+%2727+%40+SRMU;crafting+digital+experiences+%E2%9C%A8;v1.0+%E2%80%94+updates+coming+%F0%9F%96%A4" alt="Typing SVG" />
   
   <br>
   <a href="#-project-inventory"><code>[ PRESS START / EXPLORE ]</code></a>
   <br><br>
   <i>Java • DSA • AI / GenAI • Backend • Computer Vision</i>
 </div>
+<br clear="both"/>
 
 ---
 
 <!-- ABOUT ME -->
-<div>
+<div align="center">
   <h3 style="color: #00FFFF;">🎮 ABOUT ME</h3>
-  <ul style="line-height: 1.6;">
-    <li>Pursuing a <b>B.Tech in Computer Science & Engineering</b> at SRMU (Class of '27), fueled by a relentless intellectual curiosity for computational logic.</li>
-    <li><b>Architecting robust backend infrastructures</b> and scalable full-stack applications with a meticulous focus on performance and architectural integrity.</li>
-    <li><b>Leveraging advanced Generative AI</b> and Retrieval-Augmented Generation (RAG) paradigms to conceptualize and deploy autonomous, agentic systems.</li>
-    <li><b>Engineering computer vision pipelines</b> to facilitate real-time spatial inference and sophisticated pattern recognition.</li>
-    <li><b>Proficient in object-oriented paradigms</b> and algorithmic optimization, utilizing Java alongside advanced Data Structures and Algorithms (DSA) to solve complex, multifaceted problems.</li>
-  </ul>
+  <table border="1" bordercolor="#00FFFF" cellpadding="15" width="90%" style="background-color: #0d1117; text-align: left;">
+    <tr>
+      <td>
+        <ul style="line-height: 1.6;">
+          <li>Pursuing a <b>B.Tech in Computer Science & Engineering</b> at SRMU (Class of '27), fueled by a relentless intellectual curiosity for computational logic.</li>
+          <li><b>Architecting robust backend infrastructures</b> and scalable full-stack applications with a meticulous focus on performance and architectural integrity.</li>
+          <li><b>Leveraging advanced Generative AI</b> and Retrieval-Augmented Generation (RAG) paradigms to conceptualize and deploy autonomous, agentic systems.</li>
+          <li><b>Engineering computer vision pipelines</b> to facilitate real-time spatial inference and sophisticated pattern recognition.</li>
+          <li><b>Proficient in object-oriented paradigms</b> and algorithmic optimization, utilizing Java alongside advanced Data Structures and Algorithms (DSA) to solve complex, multifaceted problems.</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 </div>
 <br clear="both"/>
 
@@ -151,7 +158,7 @@
 <!-- ACHIEVEMENTS -->
 <div align="center">
   <h3 style="color: #00FFFF;">🏆 ACHIEVEMENT WALL</h3>
-  <table border="0" width="80%">
+  <table border="1" bordercolor="#00FFFF" cellpadding="15" width="90%" style="background-color: #0d1117; text-align: left;">
     <tr>
       <td>🏆 <b>Hackathon Winner</b> — 3rd Place @ AgentathonX 2026 (National AI Hackathon); 6th Place @ Viveka Hackathon</td>
     </tr>
