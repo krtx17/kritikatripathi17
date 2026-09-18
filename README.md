@@ -1,6 +1,7 @@
 <!-- HERO SECTION -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/krtx17/krtx17/main/header_image.png" width="100%" style="border-radius: 10px; border: 2px solid #00FFFF;" alt="Header Image" />
+  <video src="retro_video.mp4" width="80%" controls autoplay loop muted></video>
+</div>
   
   <br><br>
   
