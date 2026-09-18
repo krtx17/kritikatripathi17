@@ -1,8 +1,6 @@
 <!-- HERO SECTION -->
-
-<!-- HERO SECTION -->
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/5673f767-cfd3-431b-a66b-62ee57de6e97" width="100%" controls="controls" muted="muted" playsinline="playsinline" autoplay="autoplay" loop="loop"></video>
+  <video src="https://github.com/user-attachments/assets/5673f767-cfd3-431b-a66b-62ee57de6e97" width="100%" muted="muted" playsinline="playsinline" autoplay="autoplay" loop="loop"></video>
   
 
   <br><br>
