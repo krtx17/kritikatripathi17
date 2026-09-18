@@ -22,7 +22,7 @@
   <table border="1" bordercolor="#00FFFF" cellpadding="15" width="90%" style="background-color: #0d1117; text-align: left;">
     <tr>
       <td width="25%" align="center">
-        <img src="whatshapp.gif" width="100%" alt="Mascot">
+        <img src="mascot.gif" width="100%" alt="Mascot">
       </td>
       <td width="75%">
         <ul style="line-height: 1.6;">
@@ -37,6 +37,43 @@
   </table>
 </div>
 <br clear="both"/>
+
+---
+
+<!-- SOCIAL CONTROL PANEL -->
+<div align="center">
+  <h3 style="color: #00FFFF;">🕹️ CONTROL PLANNER (CONTACTS)</h3>
+  <table border="1" bordercolor="#00FFFF" cellpadding="10" width="90%" style="background-color: #0d1117;">
+    <tr>
+      <th width="25%" style="color: #00FFFF;">🐙 GITHUB</th>
+      <th width="25%" style="color: #00FFFF;">💼 LINKEDIN</th>
+      <th width="25%" style="color: #00FFFF;">📧 EMAIL</th>
+      <th width="25%" style="color: #00FFFF;">🌐 PORTFOLIO</th>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/krtx17">
+          <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/kritika-tripathi-837441246">
+          <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="mailto:mahitripathi966@gmail.com">
+          <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="#">
+          <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -120,9 +157,6 @@
     <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-night-green.svg">
     <img alt="GitHub 3D Contribution Graph" src="profile-3d-contrib/profile-night-green.svg" width="100%">
   </picture>
-  
-  <br><br>
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="60" alt="Cat Mascot at Stats" />
 </div>
 
 ---
@@ -168,43 +202,6 @@
     </tr>
     <tr>
       <td>🚀 <b>Open Source Contributor</b> — GSSoC 2025 & ELUSOC 2025 (JavaScript/React.js contributions)</td>
-    </tr>
-  </table>
-</div>
-
----
-
-<!-- SOCIAL CONTROL PANEL -->
-<div align="center">
-  <h3 style="color: #00FFFF;">🕹️ CONTROL PANEL (SOCIALS)</h3>
-  <table border="1" bordercolor="#00FFFF" cellpadding="10" width="90%" style="background-color: #0d1117;">
-    <tr>
-      <th width="25%" style="color: #00FFFF;">🐙 GITHUB</th>
-      <th width="25%" style="color: #00FFFF;">💼 LINKEDIN</th>
-      <th width="25%" style="color: #00FFFF;">📧 EMAIL</th>
-      <th width="25%" style="color: #00FFFF;">🌐 PORTFOLIO</th>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/krtx17">
-          <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.linkedin.com/in/kritika-tripathi-837441246">
-          <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="mailto:mahitripathi966@gmail.com">
-          <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="#">
-          <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" />
-        </a>
-      </td>
     </tr>
   </table>
 </div>
