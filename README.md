@@ -25,7 +25,7 @@
         <img src="mascot.gif" width="100%" alt="Mascot">
       </td>
       <td width="55%" valign="top">
-        <div style="height: 520px; overflow-y: auto; padding-right: 15px;">
+        <div style="font-size: 14px;">
           <ul style="line-height: 1.6;">
             <li>Pursuing a <b>B.Tech in Computer Science & Engineering</b> at SRMU (Class of '27), fueled by a relentless intellectual curiosity for computational logic.</li>
             <li><b>Architecting robust backend infrastructures</b> and scalable full-stack applications with a meticulous focus on performance and architectural integrity.</li>
