@@ -22,7 +22,7 @@
   <table border="1" bordercolor="#00FFFF" cellpadding="15" width="90%" style="background-color: #0d1117; text-align: left;">
     <tr>
       <td width="25%" align="center">
-        <img src="whatshap.gif" width="100%" alt="Mascot">
+        <img src="whatshapp.gif" width="100%" alt="Mascot">
       </td>
       <td width="75%">
         <ul style="line-height: 1.6;">
