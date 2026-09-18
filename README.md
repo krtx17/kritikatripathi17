@@ -25,13 +25,15 @@
         <img src="mascot.gif" width="100%" alt="Mascot">
       </td>
       <td width="55%" valign="top">
-        <ul style="line-height: 1.6;">
-          <li>Pursuing a <b>B.Tech in Computer Science & Engineering</b> at SRMU (Class of '27), fueled by a relentless intellectual curiosity for computational logic.</li>
-          <li><b>Architecting robust backend infrastructures</b> and scalable full-stack applications with a meticulous focus on performance and architectural integrity.</li>
-          <li><b>Leveraging advanced Generative AI</b> and Retrieval-Augmented Generation (RAG) paradigms to conceptualize and deploy autonomous, agentic systems.</li>
-          <li><b>Engineering computer vision pipelines</b> to facilitate real-time spatial inference and sophisticated pattern recognition.</li>
-          <li><b>Proficient in object-oriented paradigms</b> and algorithmic optimization, utilizing Java alongside advanced Data Structures and Algorithms (DSA) to solve complex, multifaceted problems.</li>
-        </ul>
+        <div style="height: 520px; overflow-y: auto; padding-right: 15px;">
+          <ul style="line-height: 1.6;">
+            <li>Pursuing a <b>B.Tech in Computer Science & Engineering</b> at SRMU (Class of '27), fueled by a relentless intellectual curiosity for computational logic.</li>
+            <li><b>Architecting robust backend infrastructures</b> and scalable full-stack applications with a meticulous focus on performance and architectural integrity.</li>
+            <li><b>Leveraging advanced Generative AI</b> and Retrieval-Augmented Generation (RAG) paradigms to conceptualize and deploy autonomous, agentic systems.</li>
+            <li><b>Engineering computer vision pipelines</b> to facilitate real-time spatial inference and sophisticated pattern recognition.</li>
+            <li><b>Proficient in object-oriented paradigms</b> and algorithmic optimization, utilizing Java alongside advanced Data Structures and Algorithms (DSA) to solve complex, multifaceted problems.</li>
+          </ul>
+        </div>
       </td>
     </tr>
   </table>
