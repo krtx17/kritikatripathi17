@@ -1,6 +1,6 @@
 <!-- HERO SECTION -->
 <div align="center">
-  <video src="https://github.com/krtx17/krtx17/raw/main/retro_video.mp4" width="100%" controls autoplay loop muted></video>
+  <video src="https://github.com/krtx17/krtx17/raw/main/retro_video.mp4" width="100%" controls="controls" muted="muted" playsinline="playsinline" autoplay="autoplay" loop="loop"></video>
   
   <br><br>
   
