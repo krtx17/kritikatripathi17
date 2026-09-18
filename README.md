@@ -1,6 +1,6 @@
 <!-- HERO SECTION -->
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/5673f767-cfd3-431b-a66b-62ee57de6e97" width="100%" controls="controls"></video>
+  <img src="https://raw.githubusercontent.com/krtx17/krtx17/main/retro_video.gif" width="100%" alt="Retro Video Banner">
 
   <br><br>
   
