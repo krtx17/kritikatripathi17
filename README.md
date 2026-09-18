@@ -174,11 +174,10 @@
   <h3 style="color: #00FFFF;">🕹️ CONTROL PANEL (SOCIALS)</h3>
   <table border="1" bordercolor="#00FFFF" cellpadding="10" width="90%" style="background-color: #0d1117;">
     <tr>
-      <th width="20%" style="color: #00FFFF;">🐙 GITHUB</th>
-      <th width="20%" style="color: #00FFFF;">💼 LINKEDIN</th>
-      <th width="20%" style="color: #00FFFF;">📧 EMAIL</th>
-      <th width="20%" style="color: #00FFFF;">🌐 PORTFOLIO</th>
-      <th width="20%" style="color: #00FFFF;">💻 LEETCODE</th>
+      <th width="25%" style="color: #00FFFF;">🐙 GITHUB</th>
+      <th width="25%" style="color: #00FFFF;">💼 LINKEDIN</th>
+      <th width="25%" style="color: #00FFFF;">📧 EMAIL</th>
+      <th width="25%" style="color: #00FFFF;">🌐 PORTFOLIO</th>
     </tr>
     <tr>
       <td align="center">
@@ -199,11 +198,6 @@
       <td align="center">
         <a href="#">
           <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="#">
-          <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" style="height: 48px; border-radius: 10px;" alt="LeetCode" />
         </a>
       </td>
     </tr>
