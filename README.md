@@ -16,26 +16,18 @@
 ---
 
 <!-- ABOUT ME -->
-<div align="center">
-  <table border="0" width="90%">
-    <tr>
-      <td width="30%" align="center">
-        <!-- Pirate Cat Mascot -->
-        <img src="https://media.tenor.com/4h_5UDB3tM4AAAAi/pirate-cat.gif" width="150" alt="Pirate Cat Mascot" />
-      </td>
-      <td width="70%">
-        <h3 style="color: #00FFFF;">🎮 ABOUT ME</h3>
-        <ul style="text-align: left; line-height: 1.6;">
-          <li>Pursuing a <b>B.Tech in Computer Science & Engineering</b> at SRMU (Class of '27), fueled by a relentless intellectual curiosity for computational logic.</li>
-          <li><b>Architecting robust backend infrastructures</b> and scalable full-stack applications with a meticulous focus on performance and architectural integrity.</li>
-          <li><b>Leveraging advanced Generative AI</b> and Retrieval-Augmented Generation (RAG) paradigms to conceptualize and deploy autonomous, agentic systems.</li>
-          <li><b>Engineering computer vision pipelines</b> to facilitate real-time spatial inference and sophisticated pattern recognition.</li>
-          <li><b>Proficient in object-oriented paradigms</b> and algorithmic optimization, utilizing Java alongside advanced Data Structures and Algorithms (DSA) to solve complex, multifaceted problems.</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
+<div>
+  <img align="left" src="https://media.giphy.com/media/10kxE34bJPaUO4/giphy.gif" width="150" alt="Pirate Cat Mascot" style="margin-right: 20px;" />
+  <h3 style="color: #00FFFF;">🎮 ABOUT ME</h3>
+  <ul style="line-height: 1.6;">
+    <li>Pursuing a <b>B.Tech in Computer Science & Engineering</b> at SRMU (Class of '27), fueled by a relentless intellectual curiosity for computational logic.</li>
+    <li><b>Architecting robust backend infrastructures</b> and scalable full-stack applications with a meticulous focus on performance and architectural integrity.</li>
+    <li><b>Leveraging advanced Generative AI</b> and Retrieval-Augmented Generation (RAG) paradigms to conceptualize and deploy autonomous, agentic systems.</li>
+    <li><b>Engineering computer vision pipelines</b> to facilitate real-time spatial inference and sophisticated pattern recognition.</li>
+    <li><b>Proficient in object-oriented paradigms</b> and algorithmic optimization, utilizing Java alongside advanced Data Structures and Algorithms (DSA) to solve complex, multifaceted problems.</li>
+  </ul>
 </div>
+<br clear="both"/>
 
 ---
 
