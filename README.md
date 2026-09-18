@@ -1,16 +1,12 @@
 <!-- HERO SECTION -->
 <div align="center">
-  <!-- CRT Scanline Banner (Placeholder GIF) -->
-  <img src="https://media.giphy.com/media/LUIvcbR6yytz2/giphy.gif" width="100%" height="200" style="object-fit: cover; border-radius: 10px; border: 2px solid #00FFFF;" alt="CRT Scanline Banner" />
+  <video src="https://github.com/krtx17/krtx17/raw/main/retro_video.mp4" width="100%" autoplay loop muted playsinline style="border-radius: 10px; border: 2px solid #00FFFF;"></video>
   
   <br><br>
   
   <!-- Retro Title -->
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=false&width=600&lines=KRITIKA.exe;SOFTWARE+ENGINEER" alt="Typing SVG" />
   
-  <br>
-  <!-- Black Cat Mascot -->
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="80" alt="Black Cat Mascot" />
   <br>
   <code>[ PRESS START / EXPLORE ]</code>
   <br><br>
@@ -51,26 +47,6 @@
 [████░░░░░░] Explore Computer Vision
 [███░░░░░░░] Become a stronger Software Engineer
   </pre>
-</div>
-
----
-
-<!-- MEDIA SECTION -->
-<div align="center">
-  <h3 style="color: #00FFFF;">📺 MEDIA PLAYER</h3>
-  <table border="1" bordercolor="#00FFFF" cellpadding="10" cellspacing="0" style="border-collapse: collapse; background-color: #0d1117;">
-    <tr>
-      <td align="center">
-        <!-- [PLACEHOLDER 7: Replace this src with your own GIF/Video link if you want a different one] -->
-        <video src="https://github.com/krtx17/krtx17/raw/main/retro_video.mp4" width="500" autoplay loop muted playsinline style="border: 2px solid #00FFFF; border-radius: 5px;"></video>
-        <br>
-        <code>▶ PLAY &nbsp;&nbsp; 00:00 / 00:10</code>
-      </td>
-    </tr>
-  </table>
-  <br>
-  <!-- Tiny Cat Mascot -->
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="40" alt="Cat Mascot" />
 </div>
 
 ---
@@ -154,15 +130,6 @@
 
 ---
 
-<!-- LEETCODE CONSOLE -->
-<div align="center">
-  <h3 style="color: #00FFFF;">🎮 LEETCODE CONSOLE</h3>
-  <!-- [PLACEHOLDER 5: LeetCode Stats. Ensure your LeetCode username is updated in the URL] -->
-  <img src="https://leetcard.jacoblin.cool/krtx17?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
-</div>
-
----
-
 <!-- PROJECTS INVENTORY -->
 <div align="center">
   <h3 style="color: #00FFFF;">🎒 PROJECT INVENTORY</h3>
@@ -231,16 +198,6 @@
 </div>
 
 ---
-
-<!-- [PLACEHOLDER 6: Spotify/Currently Playing (Optional)] -->
-<!-- Un-comment this block if you want to add Spotify stats:
-<div align="center">
-  <a href="https://github.com/novatorem/novatorem">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=[YOUR_SPOTIFY_UID]&cover_image=true&theme=dark" alt="Spotify Currently Playing" />
-  </a>
-</div>
----
--->
 
 <!-- SOCIAL CONTROL PANEL -->
 <div align="center">
