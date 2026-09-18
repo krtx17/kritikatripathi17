@@ -17,10 +17,24 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
+      - name: Recolor to Pink and Commit
         run: |
+          python3 -c "
+          import re
+          def to_pink(match):
+              r, g, b = map(int, match.groups())
+              if g > r + 10:
+                  return f'rgb({g}, {r}, {min(255, r + 120)})'
+              return match.group(0)
+          with open('profile-3d-contrib/profile-night-green.svg', 'r', encoding='utf-8') as f:
+              content = f.read()
+          content = re.sub(r'rgb\((\d+),\s*(\d+),\s*(\d+)\)', to_pink, content)
+          content = content.replace('#f1e05a', '#FFB6C1').replace('#3178c6', '#FF69B4').replace('#b07219', '#C71585').replace('#47a042', '#FF1493')
+          with open('profile-3d-contrib/profile-night-green.svg', 'w', encoding='utf-8') as f:
+              f.write(content)
+          "
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          git diff-index --quiet HEAD || git commit -m "generated 3d profile graph"
+          git diff-index --quiet HEAD || git commit -m "generated 3d profile graph (pink edition)"
           git push
