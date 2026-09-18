@@ -1,105 +1,118 @@
-<!-- Header typing animation -->
+<!-- HEADER -->
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&multiline=false&width=600&lines=Hi%2C+I'm+Kritika+Tripathi+%F0%9F%91%8B;BTech+CSE+%2727+%40+SRMU;crafting+digital+experiences+%E2%9C%A8;v1.0+%E2%80%94+updates+coming+%F0%9F%96%A4)](https://git.io/typing-svg)
-
-</div>
-
----
-
-<!-- Quote -->
-<div align="center">
-
-**An anomaly in the algorithm**
-
-</div>
-
----
-
-<!-- About Me -->
-## About Me
-
-```bash
-> INITIALIZING: kritikatripathi17
-> ALGORITHM: O(∞)
-> OUTPUT: crafting digital experiences
-> OVERRIDE: limits.exe not found
-```
-
-- BTech CSE @ **SRMU '27**
-- 📍 Lucknow, India
-- orchestrating logic and creativity, silently
-- 📬 [mahitripathi966@gmail.com](mailto:mahitripathi966@gmail.com)
-
----
-
-<!-- Socials -->
-## Socials
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-circle&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kritika-tripathi-837441246)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-circle&logo=gmail&logoColor=white)](mailto:mahitripathi966@gmail.com)
-
-</div>
-
----
-
-<!-- Tech Stack -->
-## Tech Stack
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-circle&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-circle&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-circle&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-circle&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-circle&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-circle&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat-circle&logo=next.js&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-circle&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-circle&logo=fastapi)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-circle&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-circle&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-circle&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-circle&logo=google-cloud&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-circle&logo=figma&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-circle&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-circle&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-circle&logo=scikit-learn&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-circle&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-circle&logo=github&logoColor=white)
-
-</div>
-
----
-
-<!-- GitHub Stats -->
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kritikatripathi17&theme=radical&hide_border=true&include_all_commits=false&count_private=false" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kritikatripathi17&theme=radical&hide_border=true" width="48%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritikatripathi17&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="40%"/>
-
+  <img src="https://media.giphy.com/media/LUIvcbR6yytz2/giphy.gif" width="350" alt="Retro Grid" style="border-radius:15px; margin-bottom: 20px;"/>
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=false&width=600&lines=INITIALIZING_SYSTEM...;>_Hello,+I'm+Kritika+Tripathi;>_BTech+CSE+'27+@+SRMU;>_Crafting+Digital+Experiences;>_Level_Up_In_Progress...)](https://git.io/typing-svg)
 </div>
 
 ---
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=kritikatripathi17&color=ff69b4&style=flat-square)
-
+  <h3><code>[ SYSTEM LOG : ANOMALY DETECTED ]</code></h3>
+  <p><i>"An anomaly in the algorithm..."</i></p>
 </div>
 
 ---
 
+### 👾 PLAYER STATS & ABOUT ME
+
 <div align="center">
-<i>v1.0 — updates coming</i>
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <!-- The retro video -->
+      <video src="https://github.com/krtx17/krtx17/raw/main/retro_video.mp4" width="100%" autoplay loop muted playsinline></video>
+    </td>
+    <td width="50%" align="left" valign="middle">
+<pre style="background-color: #0d1117; color: #00FF00; padding: 15px; border-radius: 8px; border: 1px solid #30363d;">
+root@krtx17:~$ cat about_me.txt
+> STATUS: BTech CSE @ SRMU '27
+> LOCATION: Lucknow, India
+> OBJECTIVE: Orchestrating logic
+  and creativity, silently.
+</pre>
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
+### ⚔️ INVENTORY (My Skills Set)
+
+<div align="center">
+  <table border="1" cellspacing="0" cellpadding="10" bordercolor="#00FF00" width="100%">
+    <tr style="background-color: #1a1a1a;">
+      <th width="33%" align="center"><h3 style="color:#00FF00">Frontend</h3></th>
+      <th width="33%" align="center"><h3 style="color:#00FF00">Backend</h3></th>
+      <th width="33%" align="center"><h3 style="color:#00FF00">Data & DevOps</h3></th>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
+        <br>
+        <img src="https://skillicons.dev/icons?i=html,css,js&perline=3" /><br><br>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,figma&perline=3" /><br><br>
+      </td>
+      <td align="center" valign="top">
+        <br>
+        <img src="https://skillicons.dev/icons?i=python,java,flask&perline=3" /><br><br>
+        <img src="https://skillicons.dev/icons?i=fastapi,mysql,mongodb&perline=3" /><br><br>
+      </td>
+      <td align="center" valign="top">
+        <br>
+        <img src="https://skillicons.dev/icons?i=aws,gcp,git&perline=3" /><br><br>
+        <img src="https://skillicons.dev/icons?i=github,docker,linux&perline=3" /><br><br>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 📊 3D CONTRIBUTION GRAPH
+
+<div align="center">
+  <!-- This displays the mountain 3D graph generated by the GitHub Action -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krtx17/krtx17/main/profile-3d-contrib/profile-night-green.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krtx17/krtx17/main/profile-3d-contrib/profile-night-green.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/krtx17/krtx17/main/profile-3d-contrib/profile-night-green.svg">
+  </picture>
+</div>
+
+---
+
+### 📡 COMMS (Socials)
+
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="200" align="center">
+      <img src="https://media.giphy.com/media/LUIvcbR6yytz2/giphy.gif" width="100%" style="border-radius:10px;"/>
+    </td>
+    <td align="center" width="400">
+      <table border="1" cellspacing="0" cellpadding="15" bordercolor="#00FF00">
+        <tr style="background-color: #1a1a1a;">
+          <th style="color:#00FF00">LinkedIn</th>
+          <th style="color:#00FF00">Gmail</th>
+        </tr>
+        <tr>
+          <td align="center"><br><a href="https://www.linkedin.com/in/kritika-tripathi-837441246"><img src="https://skillicons.dev/icons?i=linkedin" width="50px"></a><br><br></td>
+          <td align="center"><br><a href="mailto:mahitripathi966@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50px"></a><br><br></td>
+        </tr>
+      </table>
+    </td>
+    <td width="200" align="center">
+      <img src="https://media.giphy.com/media/LUIvcbR6yytz2/giphy.gif" width="100%" style="border-radius:10px;"/>
+    </td>
+  </tr>
+</table>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=krtx17&color=00FF00&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <br><br>
+  <i>v1.0 — updates coming</i>
 </div>
