@@ -5,7 +5,7 @@
   <br><br>
   
   <!-- Retro Title -->
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=false&width=600&lines=KRITIKA.exe;SOFTWARE+ENGINEER" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&multiline=false&width=600&lines=Hi%2C+I'm+Kritika+Tripathi+%F0%9F%91%8B;BTech+CSE+%2727+%40+SRMU;crafting+digital+experiences+%E2%9C%A8;v1.0+%E2%80%94+updates+coming+%F0%9F%96%A4" alt="Typing SVG" />
   
   <br>
   <code>[ PRESS START / EXPLORE ]</code>
