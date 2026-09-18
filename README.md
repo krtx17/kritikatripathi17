@@ -17,7 +17,6 @@
 
 <!-- ABOUT ME -->
 <div>
-  <img align="left" src="https://media.giphy.com/media/10kxE34bJPaUO4/giphy.gif" width="150" alt="Pirate Cat Mascot" style="margin-right: 20px;" />
   <h3 style="color: #00FFFF;">🎮 ABOUT ME</h3>
   <ul style="line-height: 1.6;">
     <li>Pursuing a <b>B.Tech in Computer Science & Engineering</b> at SRMU (Class of '27), fueled by a relentless intellectual curiosity for computational logic.</li>
@@ -173,23 +172,42 @@
 <!-- SOCIAL CONTROL PANEL -->
 <div align="center">
   <h3 style="color: #00FFFF;">🕹️ CONTROL PANEL (SOCIALS)</h3>
-  <a href="https://github.com/krtx17">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00FFFF" />
-  </a>
-  <a href="https://www.linkedin.com/in/kritika-tripathi-837441246">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00FFFF" />
-  </a>
-  <a href="#">
-    <!-- PLACEHOLDER: Add your portfolio link -->
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00FFFF" />
-  </a>
-  <a href="mailto:mahitripathi966@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=00FFFF" />
-  </a>
-  <a href="#">
-    <!-- PLACEHOLDER: Update with your LeetCode profile link -->
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=00FFFF" />
-  </a>
+  <table border="1" bordercolor="#00FFFF" cellpadding="10" width="90%" style="background-color: #0d1117;">
+    <tr>
+      <th width="20%" style="color: #00FFFF;">🐙 GITHUB</th>
+      <th width="20%" style="color: #00FFFF;">💼 LINKEDIN</th>
+      <th width="20%" style="color: #00FFFF;">📧 EMAIL</th>
+      <th width="20%" style="color: #00FFFF;">🌐 PORTFOLIO</th>
+      <th width="20%" style="color: #00FFFF;">💻 LEETCODE</th>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/krtx17">
+          <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/kritika-tripathi-837441246">
+          <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="mailto:mahitripathi966@gmail.com">
+          <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="#">
+          <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="#">
+          <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" style="height: 48px; border-radius: 10px;" alt="LeetCode" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
