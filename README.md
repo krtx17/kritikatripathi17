@@ -160,19 +160,18 @@
 <!-- ACHIEVEMENTS -->
 <div align="center">
   <h3 style="color: #00FFFF;">🏆 ACHIEVEMENT WALL</h3>
-  <!-- [PLACEHOLDER: Add your real achievements here once your resume is provided] -->
   <table border="0" width="80%">
     <tr>
-      <td>🏆 <b>Hackathon Winner</b> — [Please upload your resume in the chat or paste details here so I can add them!]</td>
+      <td>🏆 <b>Hackathon Winner</b> — 3rd Place @ AgentathonX 2026 (National AI Hackathon); 6th Place @ Viveka Hackathon</td>
     </tr>
     <tr>
-      <td>🤖 <b>Projects Completed</b> — [Please upload your resume in the chat or paste details here so I can add them!]</td>
+      <td>🤖 <b>Projects Completed</b> — 5+ live full-stack and AI projects deployed to production on Hugging Face Spaces</td>
     </tr>
     <tr>
-      <td>📜 <b>Certification Achieved</b> — [Please upload your resume in the chat or paste details here so I can add them!]</td>
+      <td>📜 <b>Certifications Achieved</b> — Intro to Machine Learning (NPTEL, IIT Madras); Ethical Hacking & Networking (Netcamp)</td>
     </tr>
     <tr>
-      <td>🚀 <b>Open Source Contributor</b> — [Please upload your resume in the chat or paste details here so I can add them!]</td>
+      <td>🚀 <b>Open Source Contributor</b> — GSSoC 2025 & ELUSOC 2025 (JavaScript/React.js contributions)</td>
     </tr>
   </table>
 </div>
