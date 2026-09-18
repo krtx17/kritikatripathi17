@@ -138,30 +138,16 @@
   <table border="1" bordercolor="#00FFFF" width="90%" style="border-collapse: collapse; background-color: #0d1117;">
     <tr>
       <td width="50%" align="center">
-        <b>🤖 CosmBot</b><br>
-        <i>AI chatbot / RAG</i><br><br>
-        <code>Python</code> <code>LangChain</code> <code>LLMs</code><br><br>
-        <a href="https://github.com/krtx17/CosmBot"><img src="https://img.shields.io/badge/GitHub-Code-%23181717?style=flat-square&logo=github"></a>
-      </td>
-      <td width="50%" align="center">
         <b>👁️ PostureAI</b><br>
         <i>Computer Vision / posture & fall detection</i><br><br>
         <code>OpenCV</code> <code>Python</code> <code>MediaPipe</code><br><br>
         <a href="https://github.com/krtx17/PostureAI"><img src="https://img.shields.io/badge/GitHub-Code-%23181717?style=flat-square&logo=github"></a>
       </td>
-    </tr>
-    <tr>
-      <td align="center">
+      <td width="50%" align="center">
         <b>📊 ContriFlow</b><br>
         <i>Open Source Intelligence platform</i><br><br>
         <code>TypeScript</code> <code>React</code> <code>AI</code><br><br>
         <a href="https://github.com/krtx17/ContriFlow"><img src="https://img.shields.io/badge/GitHub-Code-%23181717?style=flat-square&logo=github"></a>
-      </td>
-      <td align="center">
-        <b>🎯 AI Career Council</b><br>
-        <i>Multi-agent AI career mentor</i><br><br>
-        <code>Agentic AI</code> <code>Python</code> <code>GenAI</code><br><br>
-        <a href="#"><img src="https://img.shields.io/badge/GitHub-Code-%23181717?style=flat-square&logo=github"></a>
       </td>
     </tr>
   </table>
@@ -174,19 +160,16 @@
 <!-- ACHIEVEMENTS -->
 <div align="center">
   <h3 style="color: #00FFFF;">🏆 ACHIEVEMENT WALL</h3>
-  <!-- [PLACEHOLDER: Add your real achievements here] -->
+  <!-- [PLACEHOLDER: Add your real achievements here once your resume is provided] -->
   <table border="0" width="80%">
     <tr>
       <td>🏆 <b>Hackathon Winner</b> — [PLACEHOLDER: Add details]</td>
     </tr>
     <tr>
-      <td>🤖 <b>AI Project Completed</b> — [PLACEHOLDER: Add details]</td>
+      <td>🤖 <b>Projects Completed</b> — [PLACEHOLDER: Add details]</td>
     </tr>
     <tr>
       <td>📜 <b>Certification Achieved</b> — [PLACEHOLDER: Add details]</td>
-    </tr>
-    <tr>
-      <td>🧠 <b>Research Published</b> — [PLACEHOLDER: Add details]</td>
     </tr>
     <tr>
       <td>🚀 <b>Open Source Contributor</b> — [PLACEHOLDER: Add details]</td>
