@@ -21,7 +21,10 @@
   <h3 style="color: #00FFFF;">🎮 ABOUT ME</h3>
   <table border="1" bordercolor="#00FFFF" cellpadding="15" width="90%" style="background-color: #0d1117; text-align: left;">
     <tr>
-      <td>
+      <td width="25%" align="center">
+        <img src="whatshap.gif" width="100%" alt="Mascot">
+      </td>
+      <td width="75%">
         <ul style="line-height: 1.6;">
           <li>Pursuing a <b>B.Tech in Computer Science & Engineering</b> at SRMU (Class of '27), fueled by a relentless intellectual curiosity for computational logic.</li>
           <li><b>Architecting robust backend infrastructures</b> and scalable full-stack applications with a meticulous focus on performance and architectural integrity.</li>
@@ -97,12 +100,7 @@
 
 <!-- GITHUB ANALYTICS -->
 <div align="center">
-  <h3 style="color: #00FFFF;">📊 GITHUB ANALYTICS HUD</h3>
-  
-  <!-- [PLACEHOLDER 4: Trophies] -->
-  <img src="https://github-profile-trophy.vercel.app/?username=krtx17&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-  
-  <br><br>
+  <h3 style="color: #00FFFF;">📊 DEVELOPER STATS</h3>
   
   <!-- [PLACEHOLDER 1: GitHub Stats] -->
   <img src="https://github-readme-stats.vercel.app/api?username=krtx17&theme=tokyonight&hide_border=true&show_icons=true&title_color=00FFFF" width="48%" />
