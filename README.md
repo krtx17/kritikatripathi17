@@ -20,8 +20,8 @@
   <table border="0" width="90%">
     <tr>
       <td width="30%" align="center">
-        <!-- Sleeping Cat Mascot -->
-        <img src="https://media.giphy.com/media/JkV8zRfiXQroI/giphy.gif" width="150" alt="Black Cat Sleeping" />
+        <!-- Pirate Cat Mascot -->
+        <img src="https://media.tenor.com/4h_5UDB3tM4AAAAi/pirate-cat.gif" width="150" alt="Pirate Cat Mascot" />
       </td>
       <td width="70%">
         <h3 style="color: #00FFFF;">🎮 ABOUT ME</h3>
@@ -163,16 +163,16 @@
   <!-- [PLACEHOLDER: Add your real achievements here once your resume is provided] -->
   <table border="0" width="80%">
     <tr>
-      <td>🏆 <b>Hackathon Winner</b> — [PLACEHOLDER: Add details]</td>
+      <td>🏆 <b>Hackathon Winner</b> — [Please upload your resume in the chat or paste details here so I can add them!]</td>
     </tr>
     <tr>
-      <td>🤖 <b>Projects Completed</b> — [PLACEHOLDER: Add details]</td>
+      <td>🤖 <b>Projects Completed</b> — [Please upload your resume in the chat or paste details here so I can add them!]</td>
     </tr>
     <tr>
-      <td>📜 <b>Certification Achieved</b> — [PLACEHOLDER: Add details]</td>
+      <td>📜 <b>Certification Achieved</b> — [Please upload your resume in the chat or paste details here so I can add them!]</td>
     </tr>
     <tr>
-      <td>🚀 <b>Open Source Contributor</b> — [PLACEHOLDER: Add details]</td>
+      <td>🚀 <b>Open Source Contributor</b> — [Please upload your resume in the chat or paste details here so I can add them!]</td>
     </tr>
   </table>
 </div>
