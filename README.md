@@ -1,7 +1,9 @@
-<!-- HEADER -->
+<!-- HEADER / VIDEO -->
 <div align="center">
-  <img src="https://media.giphy.com/media/LUIvcbR6yytz2/giphy.gif" width="350" alt="Retro Grid" style="border-radius:15px; margin-bottom: 20px;"/>
+  <video src="https://github.com/krtx17/krtx17/raw/main/retro_video.mp4" width="80%" autoplay loop muted playsinline style="border-radius:15px; margin-bottom: 20px;"></video>
   
+  <br>
+
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=false&width=600&lines=INITIALIZING_SYSTEM...;>_Hello,+I'm+Kritika+Tripathi;>_BTech+CSE+'27+@+SRMU;>_Crafting+Digital+Experiences;>_Level_Up_In_Progress...)](https://git.io/typing-svg)
 </div>
 
@@ -10,30 +12,6 @@
 <div align="center">
   <h3><code>[ SYSTEM LOG : ANOMALY DETECTED ]</code></h3>
   <p><i>"An anomaly in the algorithm..."</i></p>
-</div>
-
----
-
-### 👾 PLAYER STATS & ABOUT ME
-
-<div align="center">
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <!-- The retro video -->
-      <video src="https://github.com/krtx17/krtx17/raw/main/retro_video.mp4" width="100%" autoplay loop muted playsinline></video>
-    </td>
-    <td width="50%" align="left" valign="middle">
-<pre style="background-color: #0d1117; color: #00FF00; padding: 15px; border-radius: 8px; border: 1px solid #30363d;">
-root@krtx17:~$ cat about_me.txt
-> STATUS: BTech CSE @ SRMU '27
-> LOCATION: Lucknow, India
-> OBJECTIVE: Orchestrating logic
-  and creativity, silently.
-</pre>
-    </td>
-  </tr>
-</table>
 </div>
 
 ---
@@ -107,6 +85,21 @@ root@krtx17:~$ cat about_me.txt
     </td>
   </tr>
 </table>
+</div>
+
+---
+
+### 👾 PLAYER STATS & ABOUT ME
+
+<div align="center">
+<pre style="background-color: #0d1117; color: #00FF00; padding: 15px; border-radius: 8px; border: 1px solid #30363d; text-align: left; width: 80%; margin: auto;">
+root@krtx17:~$ cat about_me.txt
+> STATUS: BTech CSE @ SRMU '27
+> LOCATION: Lucknow, India
+> OBJECTIVE: Orchestrating logic and creativity, silently.
+> PORTFOLIO: Windows XP-inspired retro dev
+> CONTACT: mahitripathi966@gmail.com
+</pre>
 </div>
 
 <br>
