@@ -21,10 +21,10 @@
   <h3 style="color: #00FFFF;">🎮 ABOUT ME</h3>
   <table border="1" bordercolor="#00FFFF" cellpadding="15" width="90%" style="background-color: #0d1117; text-align: left;">
     <tr>
-      <td width="25%" align="center">
+      <td width="45%" align="center" valign="top">
         <img src="mascot.gif" width="100%" alt="Mascot">
       </td>
-      <td width="75%">
+      <td width="55%" valign="top">
         <ul style="line-height: 1.6;">
           <li>Pursuing a <b>B.Tech in Computer Science & Engineering</b> at SRMU (Class of '27), fueled by a relentless intellectual curiosity for computational logic.</li>
           <li><b>Architecting robust backend infrastructures</b> and scalable full-stack applications with a meticulous focus on performance and architectural integrity.</li>
