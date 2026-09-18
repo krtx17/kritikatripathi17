@@ -22,7 +22,7 @@
   <table border="1" bordercolor="#00FFFF" cellpadding="15" width="90%" style="background-color: #0d1117; text-align: left;">
     <tr>
       <td width="50%" align="center" valign="top">
-        <img src="mascot.gif" width="100%" alt="Mascot">
+        <img src="mascot.png" width="100%" alt="Mascot">
       </td>
       <td width="50%" valign="top">
         <small>
