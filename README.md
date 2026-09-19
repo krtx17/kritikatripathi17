@@ -21,16 +21,16 @@
   <h3 style="color: #00FFFF;">🎮 ABOUT ME</h3>
   <table border="1" bordercolor="#00FFFF" cellpadding="15" width="90%" style="background-color: #0d1117; text-align: left;">
     <tr>
-      <td width="55%" align="center" valign="top">
+      <td width="60%" align="center" valign="top">
         <img src="mascot.jpg" width="100%" alt="Mascot">
       </td>
-      <td width="45%" valign="top">
+      <td width="40%" valign="top">
         <small>
-          Hi, I'm <b>Kritika</b> — a Computer Science student who likes turning ideas into things that actually work.<br>
-          💻 I build <b>full-stack applications and backend systems</b>, working with Java, Python, JavaScript, REST APIs and modern web technologies.<br>
-          🤖 I'm exploring <b>Generative AI, RAG and multi-agent systems</b>, building AI workflows that can retrieve, reason and act.<br>
-          👁️ I also enjoy <b>Computer Vision</b>, especially projects involving real-time detection, spatial understanding and human movement.<br>
-          🧠 Currently leveling up in <b>Java + DSA</b>, while going deeper into backend engineering and production-ready AI systems.<br>
+          Hi, I'm <b>Kritika</b> — a Computer Science student who likes turning ideas into things that actually work.<br><br>
+          💻 I build <b>full-stack applications and backend systems</b>, working with Java, Python, JavaScript, REST APIs and modern web technologies.<br><br>
+          🤖 I'm exploring <b>Generative AI, RAG and multi-agent systems</b>, building AI workflows that can retrieve, reason and act.<br><br>
+          👁️ I also enjoy <b>Computer Vision</b>, especially projects involving real-time detection, spatial understanding and human movement.<br><br>
+          🧠 Currently leveling up in <b>Java + DSA</b>, while going deeper into backend engineering and production-ready AI systems.<br><br>
           🏆 Along the way: <b>5+ live projects • 5 internships • open-source contributions • 3rd place at a national AI hackathon</b>
         </small>
       </td>
@@ -87,6 +87,27 @@
 [████░░░░░░] Explore Computer Vision
 [███░░░░░░░] Become a stronger Software Engineer
   </pre>
+</div>
+
+---
+
+<!-- PROJECTS INVENTORY -->
+<div align="center">
+  <h3 style="color: #00FFFF;">📌 PINNED REPOS (PROJECTS INVENTORY)</h3>
+  
+  <a href="https://github.com/krtx17/Twinmind-AI">
+    <img src="https://opengraph.githubassets.com/1/krtx17/Twinmind-AI" width="80%" alt="Twinmind-AI" style="border-radius: 10px;">
+  </a>
+  <br><br>
+  
+  <a href="https://github.com/krtx17/RippleGraphAI">
+    <img src="https://opengraph.githubassets.com/1/krtx17/RippleGraphAI" width="80%" alt="RippleGraphAI" style="border-radius: 10px;">
+  </a>
+  <br><br>
+  
+  <a href="https://github.com/krtx17/ContriFlow">
+    <img src="https://opengraph.githubassets.com/1/krtx17/ContriFlow" width="80%" alt="ContriFlow" style="border-radius: 10px;">
+  </a>
 </div>
 
 ---
