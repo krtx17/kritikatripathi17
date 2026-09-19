@@ -97,20 +97,20 @@
 
 <!-- PROJECTS INVENTORY -->
 <div align="center">
-  <h3 style="color: #00FFFF;">📌 PINNED REPOS (PROJECTS INVENTORY)</h3>
-  
-  <a href="https://github.com/krtx17/Twinmind-AI">
-    <img src="https://opengraph.githubassets.com/1/krtx17/Twinmind-AI" width="80%" alt="Twinmind-AI" style="border-radius: 10px;">
-  </a>
-  <br><br>
-  
-  <a href="https://github.com/krtx17/RippleGraphAI">
-    <img src="https://opengraph.githubassets.com/1/krtx17/RippleGraphAI" width="80%" alt="RippleGraphAI" style="border-radius: 10px;">
-  </a>
-  <br><br>
+  <h3 style="color: #00FFFF;">📌 PROJECTS</h3>
   
   <a href="https://github.com/krtx17/ContriFlow">
-    <img src="https://opengraph.githubassets.com/1/krtx17/ContriFlow" width="80%" alt="ContriFlow" style="border-radius: 10px;">
+    <img src="contriflow_banner.jpg" width="80%" alt="ContriFlow" style="border-radius: 10px;">
+  </a>
+  <br><br>
+  
+  <a href="https://github.com/krtx17/Portfolio">
+    <img src="portfolio_banner.jpg" width="80%" alt="Portfolio" style="border-radius: 10px;">
+  </a>
+  <br><br>
+  
+  <a href="https://github.com/krtx17/Traxion">
+    <img src="traxion_banner.jpg" width="80%" alt="Traxion" style="border-radius: 10px;">
   </a>
 </div>
 
@@ -178,31 +178,6 @@
   </picture>
 </div>
 
----
-
-<!-- PROJECTS INVENTORY -->
-<div align="center">
-  <h3 style="color: #00FFFF;" id="-project-inventory">🎒 PROJECT INVENTORY</h3>
-  
-  <table border="1" bordercolor="#00FFFF" width="90%" style="border-collapse: collapse; background-color: #0d1117;">
-    <tr>
-      <td width="50%" align="center">
-        <b>👁️ PostureAI</b><br>
-        <i>Computer Vision / posture & fall detection</i><br><br>
-        <code>OpenCV</code> <code>Python</code> <code>MediaPipe</code><br><br>
-        <a href="https://github.com/krtx17/PostureAI"><img src="https://img.shields.io/badge/GitHub-Code-%23181717?style=flat-square&logo=github"></a>
-      </td>
-      <td width="50%" align="center">
-        <b>📊 ContriFlow</b><br>
-        <i>Open Source Intelligence platform</i><br><br>
-        <code>TypeScript</code> <code>React</code> <code>AI</code><br><br>
-        <a href="https://github.com/krtx17/ContriFlow"><img src="https://img.shields.io/badge/GitHub-Code-%23181717?style=flat-square&logo=github"></a>
-      </td>
-    </tr>
-  </table>
-  <br>
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="40" alt="Cat Mascot at Projects" />
-</div>
 
 ---
 
