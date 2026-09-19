@@ -21,21 +21,16 @@
   <h3 style="color: #00FFFF;">🎮 ABOUT ME</h3>
   <table border="1" bordercolor="#00FFFF" cellpadding="15" width="90%" style="background-color: #0d1117; text-align: left;">
     <tr>
-      <td width="50%" align="center" valign="top">
+      <td width="55%" align="center" valign="top">
         <img src="mascot.jpg" width="100%" alt="Mascot">
       </td>
-      <td width="50%" valign="top">
+      <td width="45%" valign="top">
         <small>
-          Hi, I'm <b>Kritika</b> — a Computer Science student who likes turning ideas into things that actually work.
-          <br><br>
-          💻 I build <b>full-stack applications and backend systems</b>, working with Java, Python, JavaScript, REST APIs and modern web technologies.
-          <br><br>
-          🤖 I'm exploring <b>Generative AI, RAG and multi-agent systems</b>, building AI workflows that can retrieve, reason and act.
-          <br><br>
-          👁️ I also enjoy <b>Computer Vision</b>, especially projects involving real-time detection, spatial understanding and human movement.
-          <br><br>
-          🧠 Currently leveling up in <b>Java + DSA</b>, while going deeper into backend engineering and production-ready AI systems.
-          <br><br>
+          Hi, I'm <b>Kritika</b> — a Computer Science student who likes turning ideas into things that actually work.<br>
+          💻 I build <b>full-stack applications and backend systems</b>, working with Java, Python, JavaScript, REST APIs and modern web technologies.<br>
+          🤖 I'm exploring <b>Generative AI, RAG and multi-agent systems</b>, building AI workflows that can retrieve, reason and act.<br>
+          👁️ I also enjoy <b>Computer Vision</b>, especially projects involving real-time detection, spatial understanding and human movement.<br>
+          🧠 Currently leveling up in <b>Java + DSA</b>, while going deeper into backend engineering and production-ready AI systems.<br>
           🏆 Along the way: <b>5+ live projects • 5 internships • open-source contributions • 3rd place at a national AI hackathon</b>
         </small>
       </td>
