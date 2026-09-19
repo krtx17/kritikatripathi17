@@ -26,13 +26,17 @@
       </td>
       <td width="50%" valign="top">
         <small>
-          <ul>
-            <li>Pursuing a <b>B.Tech in Computer Science & Engineering</b> at SRMU ('27), fueled by a relentless curiosity for computational logic.</li>
-            <li><b>Architecting robust backend infrastructures</b> and scalable full-stack applications with a focus on performance.</li>
-            <li><b>Leveraging advanced Generative AI</b> and Retrieval-Augmented Generation (RAG) paradigms to deploy autonomous agentic systems.</li>
-            <li><b>Engineering computer vision pipelines</b> for real-time spatial inference and sophisticated pattern recognition.</li>
-            <li><b>Proficient in object-oriented paradigms</b> and algorithmic optimization, utilizing Java alongside Data Structures and Algorithms (DSA) to solve complex problems.</li>
-          </ul>
+          Hi, I'm <b>Kritika</b> — a Computer Science student who likes turning ideas into things that actually work.
+          <br><br>
+          💻 I build <b>full-stack applications and backend systems</b>, working with Java, Python, JavaScript, REST APIs and modern web technologies.
+          <br><br>
+          🤖 I'm exploring <b>Generative AI, RAG and multi-agent systems</b>, building AI workflows that can retrieve, reason and act.
+          <br><br>
+          👁️ I also enjoy <b>Computer Vision</b>, especially projects involving real-time detection, spatial understanding and human movement.
+          <br><br>
+          🧠 Currently leveling up in <b>Java + DSA</b>, while going deeper into backend engineering and production-ready AI systems.
+          <br><br>
+          🏆 Along the way: <b>5+ live projects • 5 internships • open-source contributions • 3rd place at a national AI hackathon</b>
         </small>
       </td>
     </tr>
