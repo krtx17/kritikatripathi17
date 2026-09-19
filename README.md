@@ -30,10 +30,10 @@
           💻 I build <b>full-stack applications and backend systems</b>, working with Java, Python, JavaScript, REST APIs and modern web technologies.<br><br>
           🤖 I'm exploring <b>Generative AI, RAG and multi-agent systems</b>, building AI workflows that can retrieve, reason and act.<br><br>
           👁️ I also enjoy <b>Computer Vision</b>, especially projects involving real-time detection, spatial understanding and human movement.<br><br>
-          🧠 Currently leveling up in <b>Java + DSA</b>, while going deeper into backend engineering and production-ready AI systems.<br><br>
           <details>
             <summary style="cursor: pointer;"><b>🏆 Along the way (Click to reveal)</b></summary>
             <br>
+            🧠 Currently leveling up in <b>Java + DSA</b>, while going deeper into backend engineering and production-ready AI systems.<br><br>
             <b>5+ live projects • 5 internships • open-source contributions • 3rd place at a national AI hackathon</b>
           </details>
         </small>
